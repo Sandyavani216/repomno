@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Swisscom/Testprojects/FrameworkProj1"><classes><class name="tests.FourTest"><methods><include name="testFour"/></methods></class><class name="tests.LoginTest"><methods><include name="login"/></methods></class><class name="tests.ThreeTest"><methods><include name="testThree"/></methods></class><class name="tests.TwoTest"><methods><include name="testTwo"/></methods></class></classes></test></suite>
